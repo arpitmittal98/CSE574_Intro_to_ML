@@ -1,0 +1,14 @@
+Part I: Data Analysis & Preprocessing [10 points]
+In this section, we will focus on data analysis and preprocessing.
+
+
+Part II: Logistic Regression using Gradient Descent [35 points]
+In this part, we will work on logistic regression and will use a logistic function to model a binomial (Binary / Bernoulli) output variable. The logistic regression model predicts that the observation belongs to a particular category. To generate these probabilities, logistic regression uses the sigmoid function that maps a real number to a value between 0 and 1.
+
+
+Part III: Linear & Ridge Regressions using OLS [25 points]
+In this section, you will implement both linear regression and ridge regression using the ordinary least squares (OLS) method and apply these models to real-world data. The goal is to understand and compare the performance of these regression techniques.
+
+
+Part IV: Elastic Net Regression using Gradient Descent [30 points]
+In this part, you will implement Elastic Net Regularization using gradient descent to solve a regression problem. You will explore different weight initialization techniques and stopping criteria to evaluate their impact on model performance.
