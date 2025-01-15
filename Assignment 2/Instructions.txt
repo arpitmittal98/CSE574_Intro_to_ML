@@ -1,0 +1,15 @@
+Part I: Building a Basic NN 
+In this part, you will implement a neural network using the PyTorch framework. You will train the network on the provided dataset, which consists of seven features and a binary target variable. Your objective is to accurately predict a target based on the input features.
+
+Part II: Optimizing NN 
+Based on your NN model defined in Part I, tune the hyperparameters and apply various tools and technics to increase the accuracy.
+
+Part III: Building a CNN 
+In this part we will work on a dataset containing multiple classes.
+
+Part IV: VGG-13 Implementation 
+VGG is one of the commonly used CNN architectures. It has different versions. In this part we implement the VGG-13 (Version B) and apply it to solve our task. The expected accuracy on the testing dataset for this task is > 85%.
+
+Bonus points 
+Implement ResNet-34 
+Implement Resnet-34 model from scratch using PyTorch, Configuration 34-layer (refer to the paper, page 774)
